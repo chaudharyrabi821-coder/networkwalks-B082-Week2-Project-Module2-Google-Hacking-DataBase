@@ -8,6 +8,7 @@
 ![Verified](https://img.shields.io/badge/All%20Entries-Manually%20Verified-success?style=for-the-badge)
 
 **⬅️ [Back to README — Overview & Summary](README.md)**
+**⬅️ [Back to README — Overview & Summary](README1.md)**
 
 </div>
 
@@ -252,5 +253,6 @@ Every entry found this way represents information the *target itself* published 
 <div align="center">
 
 **⬅️ [Back to README — Overview, Objective & Summary](README.md)**
+**⬅️ [Back to README — Overview, Objective & Summary](README1.md)**
 
 </div>
