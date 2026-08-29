@@ -1,4 +1,5 @@
 **⬅️ [Back to README — Overview & Summary](README.md)**
+**📄 [View Full Evidence & Findings →](EVIDENCE.md)**
 
 # Task 2 Screenshots — Drop Them Here
 
