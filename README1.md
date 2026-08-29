@@ -1,3 +1,5 @@
+**⬅️ [Back to README — Overview & Summary](README.md)**
+
 # Task 2 Screenshots — Drop Them Here
 
 This folder is intentionally empty. Add your 4 Task 2 (math PDF) screenshots using the **exact filenames** below so they render automatically in `EVIDENCE.md`.
