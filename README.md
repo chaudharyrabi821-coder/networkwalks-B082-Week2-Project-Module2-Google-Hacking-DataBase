@@ -188,7 +188,7 @@ ghdb-footprinting-lab/
         │   ├── 06-google-results.png
         │   └── 07-live-camera-verified.png
         └── task2-pdf/                    # Task 2 walkthrough (4 steps)
-            └── README.md                  # Naming guide — screenshots pending
+            └── README1.md                  # Naming guide — screenshots pending
 ```
 
 ---
