@@ -25,7 +25,7 @@ Your upload used the same filenames (`Step_1.png`–`Step_4.png`) for both the T
 - Keep a consistent browser window size for a uniform look across all screenshots.
 - Use `.png` for crisp UI text.
 
-  | 📄 Document      | 🔗 Link                         |
+| 📄 Document      | 🔗 Link                         |
 | ---------------- | ------------------------------- |
 | 📖 **README**    | [Open README.md](README.md)     |
 | 🖼️ **Evidence** | [Open EVIDENCE.md](EVIDENCE.md) |
