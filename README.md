@@ -17,7 +17,7 @@
 
 ---
 
-## 📑 Table of Contents
+## 📑 Table of ContentS
 
 - [Background](#-background)
 - [Objective](#-objective)
