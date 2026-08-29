@@ -1,3 +1,9 @@
+| 📄 Document      | 🔗 Link                         |
+| ---------------- | ------------------------------- |
+| 📖 **README**    | [Open README.md](README.md)     |
+| 🖼️ **Evidence** | [Open EVIDENCE.md](EVIDENCE.md) |
+
+
 # Task 2 Screenshots — Drop Them Here
 
 This folder is intentionally empty. Add your 4 Task 2 (math PDF) screenshots using the **exact filenames** below so they render automatically in `EVIDENCE.md`.
@@ -18,3 +24,9 @@ Your upload used the same filenames (`Step_1.png`–`Step_4.png`) for both the T
 - Crop out bookmarks bar, unrelated tabs, and taskbar/system tray icons.
 - Keep a consistent browser window size for a uniform look across all screenshots.
 - Use `.png` for crisp UI text.
+
+- **| 📄 Document      | 🔗 Link                         |
+| ---------------- | ------------------------------- |
+| 📖 **README**    | [Open README.md](README.md)     |
+| 🖼️ **Evidence** | [Open EVIDENCE.md](EVIDENCE.md) |
+**
