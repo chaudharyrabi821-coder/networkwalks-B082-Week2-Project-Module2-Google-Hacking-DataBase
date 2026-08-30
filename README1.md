@@ -28,4 +28,3 @@ Zoom browser to 100% before capturing	Capturing at odd zoom levels that skew pro
 
 
 📌 Once uploaded, this page comes alive in EVIDENCE.md → "Task 2 Walkthrough — Math PDF Directories"
-
