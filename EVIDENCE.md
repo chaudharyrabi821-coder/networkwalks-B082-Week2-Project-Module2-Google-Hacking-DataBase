@@ -21,7 +21,7 @@
 - [Task 2 Walkthrough — Math PDF Directories](#-task-2-walkthrough--math-pdf-directories)
 - [Task 2 Findings Table](#-task-2-findings-table)
 - [Verification Notes](#-verification-notes)
-
+- 
 ---
 
 ## 📸 Task 1 Walkthrough — Exposed Security Cameras
