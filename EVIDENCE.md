@@ -35,16 +35,18 @@
 
 ### Step 1 — Open Exploit-DB
 Navigate to [exploit-db.com](https://www.exploit-db.com), the official host of the GHDB.
+<img width="1919" height="947" alt="Step 1" src="https://github.com/user-attachments/assets/0e17049e-e4a8-48a0-9f72-9f8a87cf9fd4" />
 
-<img src="assets/screenshots/task1-camera/01-exploitdb-home.png" width="100%">
+
 
 </td>
 <td width="50%" valign="top">
 
 ### Step 2 — Open the GHDB Menu
 Expand the left sidebar and click **GHDB** to switch from the exploit archive into the dork database.
+<img width="1919" height="941" alt="Step 2" src="https://github.com/user-attachments/assets/8d02e6fc-a641-4b70-a6c3-6179914b052f" />
 
-<img src="assets/screenshots/task1-camera/02-ghdb-menu.png" width="100%">
+
 
 </td>
 </tr>
@@ -53,16 +55,18 @@ Expand the left sidebar and click **GHDB** to switch from the exploit archive in
 
 ### Step 3 — Search by Keyword
 Type `cam` into the GHDB search box to filter down to camera/streaming-related dorks.
+<img width="1900" height="945" alt="Step 3" src="https://github.com/user-attachments/assets/6782d622-8fc4-49ed-a3d1-4560b882d0b1" />
 
-<img src="assets/screenshots/task1-camera/03-ghdb-search-cam.png" width="100%">
+
 
 </td>
 <td width="50%" valign="top">
 
 ### Step 4 — Copy a Candidate Dork
 Right-click a promising entry and select **Copy link address** / copy the dork text.
+<img width="1919" height="953" alt="Step 4" src="https://github.com/user-attachments/assets/db571ca4-e6bb-4d87-8df8-307fe3b27433" />
 
-<img src="assets/screenshots/task1-camera/04-copy-dork.png" width="100%">
+
 
 </td>
 </tr>
@@ -71,16 +75,18 @@ Right-click a promising entry and select **Copy link address** / copy the dork t
 
 ### Step 5 — Run the Dork on Google
 Paste `intitle:"webcamXP" inurl:8080` into [google.com](https://www.google.com) and search.
+<img width="1912" height="659" alt="Step 5" src="https://github.com/user-attachments/assets/1720fb38-17aa-4bb5-ba21-e7855d13fdaf" />
 
-<img src="assets/screenshots/task1-camera/05-google-search-dork.png" width="100%">
+
 
 </td>
 <td width="50%" valign="top">
 
 ### Step 6 — Review the Results
 Google returns live camera interfaces indexed under this exact search pattern.
+<img width="1919" height="949" alt="Step 6" src="https://github.com/user-attachments/assets/e52c6832-318f-4550-80e0-1160c712c21e" />
 
-<img src="assets/screenshots/task1-camera/06-google-results.png" width="100%">
+
 
 </td>
 </tr>
@@ -90,7 +96,8 @@ Google returns live camera interfaces indexed under this exact search pattern.
 Each result was opened and manually confirmed live before logging.
 
 <p align="center">
-<img src="assets/screenshots/task1-camera/07-live-camera-verified.png" width="75%">
+<img width="1919" height="939" alt="Step 7" src="https://github.com/user-attachments/assets/f6a869c9-9bc3-43ce-8efa-391e82107c03" />
+
 <br><em>Confirmed: a live, unauthenticated <code>webcamXP 5</code> feed at <code>109.233.191.130:8080</code>.</em>
 </p>
 
@@ -154,7 +161,8 @@ inurl:/view/index.shtml
 ### Step 1 — Run the Dork on Google
 The directory-listing dork is simple enough to run directly on Google, combined with the subject keyword `mathematics pdf`.
 
-<img src="assets/screenshots/task2-pdf/01-google-search-dork.png" width="100%">
+<img width="1906" height="638" alt="Step 1" src="https://github.com/user-attachments/assets/ae6814c8-6994-45be-894d-2054621e6069" />
+
 
 *(screenshot pending — see [note below](#️-screenshots-pending-for-task-2))*
 
@@ -164,7 +172,8 @@ The directory-listing dork is simple enough to run directly on Google, combined 
 ### Step 2 — Review the Results
 Google surfaces multiple `Index of /...` style pages — the tell-tale sign of an exposed directory listing.
 
-<img src="assets/screenshots/task2-pdf/02-google-results.png" width="100%">
+<img width="1919" height="952" alt="Step 2" src="https://github.com/user-attachments/assets/8146f076-e1e4-43ed-a29f-3dce3acf0421" />
+
 
 *(screenshot pending)*
 
@@ -176,7 +185,8 @@ Google surfaces multiple `Index of /...` style pages — the tell-tale sign of a
 ### Step 3 — Open the Directory Listing
 Opening a result shows the raw file index — e.g. `Index of /Maths/` — with mathematics PDFs and related files listed directly.
 
-<img src="assets/screenshots/task2-pdf/03-directory-listing.png" width="100%">
+<img width="1919" height="960" alt="Step 3" src="https://github.com/user-attachments/assets/68968c68-47ee-449c-a146-8263e9ac8858" />
+
 
 *(screenshot pending)*
 
@@ -186,7 +196,8 @@ Opening a result shows the raw file index — e.g. `Index of /Maths/` — with m
 ### Step 4 — Open & Verify a PDF
 One file from the listing is opened to confirm it's a genuine, readable mathematics ebook.
 
-<img src="assets/screenshots/task2-pdf/04-pdf-opened.png" width="100%">
+<img width="1919" height="952" alt="Step 4" src="https://github.com/user-attachments/assets/63b2b21e-9255-4833-8b71-a70b1db241e7" />
+
 
 *(screenshot pending)*
 
